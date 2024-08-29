@@ -22,6 +22,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 -   @tailwind/typography
 -   lucide-react
 -   shadcn-ui@latest add button (this on with npx)
+-   @kinde-oss/kinde-auth-nextjs
 
 ## Resources
 
