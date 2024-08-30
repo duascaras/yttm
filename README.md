@@ -27,3 +27,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Resources
 
 -   https://ui.shadcn.com/
+
+## Topics mentioned
+
+-   Eventual consistency
+    -   Josh used this concept explaining the interaction between the user, dashboard and database
+
+![alt text](docs/eventual_consistency.png)
+
+-   tRPC (Typesafe APIs)
+
+![alt text](docs/tRPC.png)
