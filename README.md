@@ -23,6 +23,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 -   lucide-react
 -   shadcn-ui@latest add button (this on with npx)
 -   @kinde-oss/kinde-auth-nextjs
+-   @trpc/server @trpc/client @trpc/client @trpc/react-query @trpc/next @tanstack/react-query zod
+-   npx prisma init
 
 ## Resources
 
@@ -38,3 +40,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 -   tRPC (Typesafe APIs)
 
 ![alt text](docs/tRPC.png)
+
+## Important stuff
+
+```bash
+# this opens a web page to check our database
+npx prisma studio
+```
