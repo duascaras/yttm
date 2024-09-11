@@ -25,6 +25,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 -   @kinde-oss/kinde-auth-nextjs
 -   @trpc/server @trpc/client @trpc/client @trpc/react-query @trpc/next @tanstack/react-query zod
 -   npx prisma init
+-   npx shadcn@latest add dialog
+-   pnpm install react-loading-skeleton
+-   pnpm install date-fns
 
 ## Resources
 
@@ -46,4 +49,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ```bash
 # this opens a web page to check our database
 npx prisma studio
+# push changes into database
+npx prisma db push
+# generate the local typescript files
+npx prisma generate
 ```
